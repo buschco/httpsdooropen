@@ -1,0 +1,3 @@
+rootProject.name = 'httpsdooropen'
+
+include ':app'
